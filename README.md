@@ -11,7 +11,7 @@ Sign Up page using HTML, CSS, SASS and Javascript.
 ## 🚀 Starting
 
 To start the project, just open the file `index.html` in your preferred browser. <br>
-Or you can just access https://guilherme-arruda.github.io/Sign-Up-Form/.
+Or you can just access <a href="https://guilherme-arruda.github.io/Sign-Up-Form/" target="_ blank">clicking here<a/>.
 
 ## 📄 License
 This project is under MIT license - see the file [LICENSE.md](https://github.com/Guilherme-Arruda/Sign-Up-Form/blob/master/LICENSE) for details.
